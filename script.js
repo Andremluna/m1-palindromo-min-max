@@ -14,7 +14,7 @@ function isPalindrome(str) {
     return nomeInvertido === normalizedStr;
 }
 
-function arrayMaxMinfunction(numeros) {
+function arrayMaxMin(numeros) {
     if (numeros.length === 0) {
         return "A lista está vazia.";
     }
